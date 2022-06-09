@@ -3,14 +3,13 @@
 ## libraries
 run pip install -r requirements.txt
 
-### example usage:
+## example usage:
 
-You can run methods calling by its name. 
-Note every method takes different file name or param.
+You can run methods calling by its name. Note every method takes different file name or param.
 
 
-read_jmeter("Jmeter_log1.jtl")
+#### read_jmeter("Jmeter_log1.jtl")
 
-update_json("appdate")
+#### update_json("appdate")
 
-update_test_payload_xml(3, 23)
+#### update_test_payload_xml(3, 23)
